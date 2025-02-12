@@ -22,7 +22,7 @@ Before setting up the project, ensure that you have the following installed on y
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-org/flower-shop-server.git
+git clone https://github.com/exact-payments/flower-shop-server.git
 cd flower-shop-server
 ```
 
@@ -55,7 +55,7 @@ This will start the backend server, which will be accessible at `http://localhos
 ## Frontend Application
 This backend service supports a frontend eCommerce application. Make sure you also set up the frontend by following the instructions in its respective GitHub repository:
 
-[Frontend Repository](https://github.com/your-org/flower-shop-server.git)
+[Frontend Repository](hhttps://github.com/exact-payments/flower-shop.git)
 
 ## Additional Notes
 - Ensure that your database and any required third-party services are running before starting the backend.
